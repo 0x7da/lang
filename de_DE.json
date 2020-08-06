@@ -5,7 +5,7 @@
 	"values": {
 		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6{0}§7 und erhalte coole Belohnungen.",
 		"message.youDontVoted": "Du hast noch nicht für uns gevotet.",
-		"message.Voteclaimed": "hat für uns gevotet und dementsprechend coole Belohunungen erhalten.",
+		"message.Voteclaim": "hat für uns gevotet und dementsprechend coole Belohunungen erhalten.",
 		"message.voted": "Du hast nun erfolgreich für uns gevotet."
 	}
 }
