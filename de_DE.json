@@ -5,5 +5,7 @@
 	"values": {
 		"key": "value",
 		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6{0}§7 und erhalte coole Belohnungen."
+		"key": "value",
+		"message.youDontVoted": "{PREFIX} Du hast noch nicht für uns gevotet."
 	}
 }
