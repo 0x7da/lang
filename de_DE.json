@@ -4,6 +4,7 @@
 	"PREFIX": "PREFIX > ",
 	"values": {
 		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6{0}§7 und erhalte coole Belohnungen.",
-		"message.youDontVoted": "Du hast noch nicht für uns gevotet."
+		"message.youDontVoted": "Du hast noch nicht für uns gevotet.",
+		"message.Vote.claimed": "hat für uns gevotet und dementsprechend coole Belohunungen erhalten."
 	}
 }
