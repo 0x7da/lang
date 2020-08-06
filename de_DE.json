@@ -6,6 +6,7 @@
 		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6{0}§7 und erhalte coole Belohnungen.",
 		"message.youDontVoted": "Du hast noch nicht für uns gevotet.",
 		"message.Voteclaim": "hat für uns gevotet und dementsprechend coole Belohunungen erhalten.",
-		"message.voted": "Du hast nun erfolgreich für uns gevotet."
+		"message.voted": "Du hast nun erfolgreich für uns gevotet.",
+		"message.Reward": Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel §7erhalten."
 	}
 }
