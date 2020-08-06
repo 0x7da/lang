@@ -3,6 +3,7 @@
 	"localeCode": "de_DE",
 	"PREFIX": "PREFIX > ",
 	"values": {
-		"key": "value"
+		"key": "value",
+		"message.youCanVoteHere": "Vote nun unter §6GoldStube.net/vote§7 und erhalte coole Belohnungen."
 	}
 }
