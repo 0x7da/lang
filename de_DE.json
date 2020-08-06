@@ -4,6 +4,6 @@
 	"PREFIX": "PREFIX > ",
 	"values": {
 		"key": "value",
-		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6GoldStube.net/vote§7 und erhalte coole Belohnungen."
+		"message.youCanVoteHere": "{PREFIX}Vote nun unter §6{0}§7 und erhalte coole Belohnungen."
 	}
 }
