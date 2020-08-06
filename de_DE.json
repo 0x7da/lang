@@ -7,6 +7,6 @@
 		"message.youDontVoted": "{PREFIX}Du hast noch nicht für uns gevotet.",
 		"message.Voteclaim": "{PREFIX}hat für uns gevotet und dementsprechend coole Belohunungen erhalten.",
 		"message.voted": "{PREFIX}Du hast nun erfolgreich für uns gevotet.",
-		"message.Reward": {PREFIX}Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel §7erhalten."
+		"message.Reward": "{PREFIX}Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel erhalten."
 	}
 }
