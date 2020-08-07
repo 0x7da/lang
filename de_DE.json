@@ -14,7 +14,7 @@
 		"message.NoSign": "{PREFIX} §7Hier gibt es kein Sign mit dem Random Join.",
 		"message.AddSign": "{PREFIX} §7/register addsign <Sign-Name> <founder>.",
 		"message.SignRandom": "{PREFIX} §7/register addrandomsign / addrs <Sign-Name>.",
-		"message.Sign.Founder": "{PREFIX} §7/register addfounder <Sign-Name> <founder>",
+		"message.SignFounder": "{PREFIX} §7/register addfounder <Sign-Name> <founder>",
 		"message.AlreadyLobby": "{PREFIX} §7Du bist bereits in der Lobby.",
 		"message.ThisIsLobby": "{PREFIX} §7Das ist der Lobby-Server."
 		
