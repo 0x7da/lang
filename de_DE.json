@@ -3,10 +3,10 @@
 	"localeCode": "de_DE",
 	"PREFIX": "§eLangAPI §7>",
 	"values": {
-		"message.youCanVoteHere": "§7Vote nun unter §e{0}§7 und erhalte coole Belohnungen.",
-		"message.youDontVoted": "§7Du hast noch nicht für uns gevotet.",
-		"message.Voteclaim": "§7Du hast für uns §egevotet §7und dementsprechend coole §eBelohunungen §7erhalten.",
-		"message.voted": "§7Du hast nun §eerfolgreich §7für uns §egevotet.",
-		"message.Reward": "§7Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel erhalten."
+		"message.youCanVoteHere": "{PREFIX} §7Vote nun unter §e{0}§7 und erhalte coole Belohnungen.",
+		"message.youDontVoted": "{PREFIX} §7Du hast noch nicht für uns gevotet.",
+		"message.Voteclaim": "{PREFIX} §7Du hast für uns §egevotet §7und dementsprechend coole §eBelohunungen §7erhalten.",
+		"message.voted": "{PREFIX} §7Du hast nun §eerfolgreich §7für uns §egevotet.",
+		"message.Reward": "{PREFIX} §7Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel erhalten."
 	}
 }
