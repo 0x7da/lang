@@ -8,6 +8,7 @@
 		"message.Voteclaim": "{PREFIX} §7Du hast für uns §egevotet §7und dementsprechend coole §eBelohunungen §7erhalten.",
 		"message.voted": "{PREFIX} §7Du hast nun §eerfolgreich §7für uns §egevotet.",
 		"message.Reward": "{PREFIX} §7Du hast §7 100 §6Coins §7+ §e1 Vote Schlüssel erhalten.",
-		"message.KlickSign": "{PREFIX} §7Jetzt klick auf ein Schild nach deiner Wahl."
+		"message.KlickSign": "{PREFIX} §7Jetzt klick auf ein Schild nach deiner Wahl.",
+		"message.FounderAdd": "{PREFIX} §7Der Founder wurde erfolgreich geaddet."
 	}
 }
