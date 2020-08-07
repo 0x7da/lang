@@ -1,7 +1,7 @@
 {
 	"name": "Deutsch",
 	"localeCode": "de_DE",
-	"PREFIX": "§7➥ ",
+	"PREFIX": "§eLangAPI §7>",
 	"values": {
 		"message.youCanVoteHere": "§7Vote nun unter §e{0}§7 und erhalte coole Belohnungen.",
 		"message.youDontVoted": "§7Du hast noch nicht für uns gevotet.",
