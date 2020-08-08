@@ -1,7 +1,7 @@
 {
 	"name": "Deutsch",
 	"localeCode": "de_DE",
-	"PREFIX": "§eGold§7Cloud §7>",
+	"PREFIX": "§eGold§7Cloud §7»",
 	"values": {
 		"message.youCanVoteHere": "{PREFIX} §7Vote nun unter §e{0}§7 und erhalte coole Belohnungen.",
 		"message.youDontVoted": "{PREFIX} §7Du hast noch nicht für uns gevotet.",
